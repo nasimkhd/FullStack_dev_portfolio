@@ -38,7 +38,6 @@ export default function Contact() {
             marginWidth={0}
             style={{ filter: "opacity(0.7)" }}
             src="https://www.google.com/maps/embed/v1/place?q=23+Greenbriar+Rd+North+York+ON+M2K+1H7&key=AIzaSyAidcYGEnmT4xpzIGpNhr65LKOyKNXLJk4"
-            // xsrc="https://www.google.com/maps/embed/v1/place?q=23+greenbriar+rd+north+york+city&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"
           />
           <div className="bg-gray-900 relative flex flex-wrap py-6 rounded shadow-md">
             <div className="lg:w-1/2 px-6">

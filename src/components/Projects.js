@@ -12,10 +12,10 @@ export default function Projects() {
             Work History
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            I immigrated to Toronto two years ago and I had couple of general jobs but here I will share you my profesional jobs that i HAD SO FAR.
+            I came to Toronto two years ago and I had couple of general jobs but here I will share you my profesional jobs that i HAD SO FAR.
           </p>
         </div>
-        <div className="flex flex-wrap -m-4">
+        <div>
           {projects.map((project) => (
             <a
               href={project.link}
